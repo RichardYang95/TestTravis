@@ -6,7 +6,7 @@ import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
 
-public class Calculator extends Application {
+aklsdfjapublic class Calculator extends Application {
 	//Declare calc controls
 	TextField txtnum1, txtnum2;
 	Button add, sub, div, mul, clear;
